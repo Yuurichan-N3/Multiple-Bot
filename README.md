@@ -1,16 +1,3 @@
-Berikut adalah README.md yang bisa kamu gunakan untuk upload di GitHub.
-
-✅ Deskripsi proyek
-✅ Fitur utama
-✅ Cara instalasi & penggunaan
-✅ Contoh output
-✅ Informasi tambahan
-
-
----
-
-README.md
-
 # 🚀 MultipleLite - Auto Login Bot
 
 MultipleLite adalah bot otomatis yang membantu login ke platform multiple.cc dengan cepat dan efisien.  
