@@ -19,7 +19,7 @@ Menggunakan **multi-threading**, **proxy support**, dan **progress bar** untuk p
 
 ### **1️⃣ Clone Repository**
 ```bash
-git clone https://github.com/username/MultipleLite.git
+git clone https://github.com/Yuurichan-N3/Multiple-Bot.git
 cd MultipleLite
 
 2️⃣ Install Dependencies
