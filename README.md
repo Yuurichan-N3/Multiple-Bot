@@ -54,25 +54,6 @@ Setelah memilih, script akan memproses semua akun di privateKeys.txt dan mengula
 
 ---
 
-
-## 🚀 MultipleLite - Auto Login Bot
-Automate your login process faster!
-Developed by: Your Team / Telegram Group
-
-Pilih metode proxy:
-1. Gunakan Proxy Gratis
-2. Gunakan Proxy Pribadi
-3. Jalankan Tanpa Proxy
-Pilih [1/2/3] -> 1
-
-[ 02/18/25 20:10:41 WITA ] | Memproses akun...
-Memproses akun:  50% ██████████          [2/4]
-[ 02/18/25 20:10:42 WITA ] | Login berhasil untuk 0x1234...abcd ✅
-[ 02/18/25 20:10:43 WITA ] | Login gagal untuk 0x5678...efgh ❌
-
-
----
-
 ## ⚙️ Konfigurasi Tambahan
 
 Gunakan proxy pribadi: Tambahkan daftar proxy ke proxy.txt (1 proxy per baris).
