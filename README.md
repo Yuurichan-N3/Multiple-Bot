@@ -21,12 +21,15 @@ Menggunakan **multi-threading**, **proxy support**, dan **progress bar** untuk p
 ```bash
 git clone https://github.com/Yuurichan-N3/Multiple-Bot.git
 cd MultipleLite
+```
 
 2️⃣ Install Dependencies
 
 Pastikan Python 3.8+ sudah terinstal, lalu jalankan:
 
+```bahs
 pip install -r requirements.txt
+```
 
 3️⃣ Siapkan Private Key
 
@@ -51,11 +54,11 @@ Setelah memilih, script akan memproses semua akun di privateKeys.txt dan mengula
 
 ---
 
-📌 Contoh Output
+## 📌 Contoh Output
 
 Saat script dijalankan, akan muncul banner dan progress:
 
-🚀 MultipleLite - Auto Login Bot
+## 🚀 MultipleLite - Auto Login Bot
 Automate your login process faster!
 Developed by: Your Team / Telegram Group
 
@@ -73,7 +76,7 @@ Memproses akun:  50% ██████████          [2/4]
 
 ---
 
-⚙️ Konfigurasi Tambahan
+## ⚙️ Konfigurasi Tambahan
 
 Gunakan proxy pribadi: Tambahkan daftar proxy ke proxy.txt (1 proxy per baris).
 
@@ -83,8 +86,14 @@ Ganti delay loop: Edit await asyncio.sleep(600) di main.py jika ingin mengganti 
 
 ---
 
-🛠️ Perbaikan & Pengembangan
+## 📜 Lisensi
 
-Jika menemukan bug atau ingin menambahkan fitur baru, silakan buat Issue atau Pull Request di GitHub.
+Proyek ini dibuat [Oleh](https://t.me/sentineldiscus).
 
-🚀 Enjoy your automation!
+Silakan gunakan dengan bijak.
+
+
+---
+
+## 💡 Disclaimer 
+Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
