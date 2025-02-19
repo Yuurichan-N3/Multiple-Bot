@@ -54,9 +54,6 @@ Setelah memilih, script akan memproses semua akun di privateKeys.txt dan mengula
 
 ---
 
-## 📌 Contoh Output
-
-Saat script dijalankan, akan muncul banner dan progress:
 
 ## 🚀 MultipleLite - Auto Login Bot
 Automate your login process faster!
